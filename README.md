@@ -9,7 +9,7 @@ This project demonstrates:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repo_url>
+   git clone https://github.com/ajaiiyer1995/UST_Test_Repo.git
    cd project
 
 ## Project Structure
