@@ -1,0 +1,2 @@
+Input for Function 1
+Input for Function 2
