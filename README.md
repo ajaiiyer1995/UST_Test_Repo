@@ -13,9 +13,14 @@ This project demonstrates:
    cd project
 
 ## Project Structure
-project/
-├── src/                  # Source code
-├── data/                 # Input data
-├── tests/                # Unit tests
-├── README.md             # Instructions
-└── requirements.txt      # Dependencies
+UST_Test_Project/
+├── src/
+│   ├── function1.py
+│   ├── function2.py
+│   └── main.py
+├── data/
+│   └── inputs.txt
+├── tests/
+│   └── test_functions.py
+├── README.md
+└── requirements.txt
